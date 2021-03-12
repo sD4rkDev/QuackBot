@@ -1,4 +1,4 @@
-![logo](https://cdn.discordapp.com/attachments/702807903836307487/820061317313593364/Gnomed.jpg)
+![logo](https://cdn.discordapp.com/attachments/820063810320203836/820063877495652392/1f986.png)
 # QuackBot
 -----------------
 
