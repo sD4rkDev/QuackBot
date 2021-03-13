@@ -45,3 +45,5 @@ Algunos comandos:
  **_Servidor de soporte:_**
   
  <a href="https://discord.gg/nava5ujfBQ"><img src="https://discordapp.com/api/guilds/820063325467312138/widget.png?style=banner2" /></a>
+
+Créditos a tnfAngel#8642
